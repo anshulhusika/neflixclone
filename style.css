@@ -103,7 +103,7 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 
 @media screen and (max-width:400px) {
     .logo{
-        max-width: 130px;
+        max-width: 100px;
         
     }
     .disc h1{
